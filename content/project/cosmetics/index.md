@@ -1,6 +1,6 @@
 ---
-title: Cosmetics Semantic Search
-summary: Write about your project here...
+title: 你身边的美妆专家
+summary: Dopi 不脱妆粉底液
 tags:
   - NLP
 date: 2022-01-01

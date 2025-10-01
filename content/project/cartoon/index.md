@@ -1,6 +1,6 @@
 ---
-title: Cartoon Face Generator
-summary: Write about your project here...
+title: 代言人
+summary: 测试
 tags:
   - CV
 date: 2022-01-01

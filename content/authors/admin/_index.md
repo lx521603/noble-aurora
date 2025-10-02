@@ -66,8 +66,26 @@ social:
 #email: ""
 ---
 
-Alice Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+受够了当月光族？看腻了老板脸色？
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+别只会刷视频羡慕别人了！看看老王我！
+
+从零开始摆摊卖美妆，抖音小红书记录每一天：今天被城管撵，明天爆单手抽筋……但，姐赚的每一分钱都硬气！
+
+现在正式招募“创业搭子”！要求就三点：
+
+1. 想搞钱，有执行力，不是口嗨党。
+2. 爱美妆，对变美这件事有无限热情。
+3. 脸皮厚，敢在路边对美女喊“姐姐来试试这个色号！”
+
+带你解锁：选品技巧 + 摆摊秘籍 + 全网引流玩法。
+犹豫就会败北，果断才能白富美！联系我，我教你第一步怎么走！
+
+## 联系我们
+抖音号: VMimi33453  
+微信号: zmmz9108  
+邮箱: x@ouro.ch  
+地址: 芒市新玩厂落日集市，欢迎到店试用。
+
 
 {{< icon name="download" pack="fas" >}} {{< staticref "uploads/resume.pdf" "newtab" >}}Download{{< /staticref >}} my resumé as a PDF.

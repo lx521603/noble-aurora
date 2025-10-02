@@ -1,7 +1,7 @@
 ---
 # An instance of the Contact widget.
 # Documentation: https://docs.hugoblox.com/getting-started/page-builder/
-widget: contact
+# widget: contact
 
 # This file represents a page section.
 headless: true
@@ -9,7 +9,7 @@ headless: true
 # Order that this section appears on the page.
 weight: 50
 
-title: Get in touch
+# title: Get in touch
 subtitle:
 
 content:

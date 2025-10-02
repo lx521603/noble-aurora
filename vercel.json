@@ -2,12 +2,14 @@
   "version": 2,
   "builds": [
     {
-      "src": "hugo.toml",
-      "use": "@vercel/static-build",
-      "config": { "distDir": "public" }
+      "src": "package.json",
+      "use": "@vercel/static-build"
     }
   ],
-  "routes": [
-    { "src": "/(.*)", "dest": "/$1" }
-  ]
+  "buildCommand": "hugo",
+  "outputDirectory": "public",
+  "env": {
+    "HUGO_VERSION": "0.119.0",
+    "HUGO_ENV": "production"
+  }
 }

@@ -47,11 +47,11 @@ header:
 footer:
   copyright:
     notice: '© {year} MIA.YT. Mia Wang'
-    license:
-      enable: false
-      allow_derivatives: false
-      share_alike: false
-      allow_commercial: false
+#    license:
+#      enable: false
+#      allow_derivatives: false
+#      share_alike: false
+#      allow_commercial: false
 
 # Localization
 

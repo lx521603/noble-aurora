@@ -4,5 +4,5 @@ summary: 24 小时长久持妆，防水，防汗，防蹭
 tags:
   - NLP
 date: 2022-01-01
-external_link: http://github.com
+external_link: https://mia.yt/about/
 ---

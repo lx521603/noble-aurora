@@ -1,6 +1,6 @@
 ---
-title: 你身边的美妆专家
-summary: Dopi 不脱妆粉底液，24 小时长久持妆
+title: Dopi 不脱妆粉底液
+summary: 24 小时长久持妆，防水，防汗，防蹭
 tags:
   - NLP
 date: 2022-01-01

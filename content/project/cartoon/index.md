@@ -4,5 +4,5 @@ summary: 作为演员，时刻保持最佳状态是我的工作。Dopi，我信�
 tags:
   - CV
 date: 2022-01-01
-external_link: http://github.com
+external_link: https://mia.yt/about
 ---

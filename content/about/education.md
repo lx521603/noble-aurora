@@ -1,7 +1,7 @@
 ---
 # An instance of the Experience widget.
-# Documentation: https://docs.hugoblox.com/page-builder/
-widget: experience
+# Documentation: #https://docs.hugoblox.com/page-builder/
+#widget: experience
 
 # This file represents a page section.
 headless: true
@@ -9,7 +9,7 @@ headless: true
 # Order that this section appears on the page.
 weight: 30
 
-title: Education
+#title: Education
 subtitle:
 
 # Date format for experience

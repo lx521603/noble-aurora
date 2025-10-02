@@ -85,7 +85,4 @@ social:
 抖音号: VMimi33453  
 微信号: zmmz9108  
 邮箱: x@ouro.ch  
-地址: 芒市新玩厂落日集市，欢迎到店试用。
-
-
-# {{< icon name="download" pack="fas" >}} {{< staticref "uploads/resume.pdf" "newtab" >}}Download{{< /staticref >}} my resumé as a PDF.
+地址: 芒市新玩厂落日集市，欢迎到店试用

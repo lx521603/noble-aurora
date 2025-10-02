@@ -28,11 +28,11 @@ content:
   filter_button:
     - name: All
       tag: '*'
-    - name: Machine Learning
+    - name: 直播的老王
       tag: ML
-    - name: Computer Vision
+    - name: 董璇
       tag: CV
-    - name: NLP
+    - name: Dopi 不脱妆粉底液
       tag: NLP
 
 design:

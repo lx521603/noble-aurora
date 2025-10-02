@@ -4,5 +4,5 @@ summary:  欢迎想创业的美女加入
 tags:
   - ML
 date: 2022-01-01
-external_link: http://github.com
+external_link: https://mia.yt/about/
 ---

@@ -5,19 +5,11 @@
       "src": "package.json",
       "use": "@vercel/static-build",
       "config": {
-        "distDir": "public"
+        "distDir": "public",
+        "buildCommand": "hugo --gc --minify --enableGitInfo"
       }
     }
   ],
-  "build": {
-    "env": {
-      "HUGO_VERSION": "0.119.0",
-      "HUGO_ENABLEGITINFO": "true"
-    }
-  },
-  "env": {
-    "HUGO_ENV": "production"
-  },
   "routes": [
     {
       "src": "/(.*)",

@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Mia Wan(老王)
+title: Mia Wang(米娅)
 
 # Is this the primary user of the site?
 superuser: true

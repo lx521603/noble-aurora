@@ -4,10 +4,7 @@
 # This file is formatted using YAML syntax - learn more at https://learnxinyminutes.com/docs/yaml/
 
 # Appearance
-params:
-  widgets:
-    home:
-      - content/home/index.md   # 这里就是你新增的内容
+
 appearance:
   theme_day: custom
   theme_night: custom

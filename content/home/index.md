@@ -12,5 +12,5 @@ headless: true
 ## 联系我们
 抖音号: VMimi33453  
 微信号: zmmz9108  
-邮箱: x@ouro.ch  
+邮箱: x@glee.ch  
 地址: 芒市新玩厂落日集市，欢迎到店试用。

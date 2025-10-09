@@ -7,6 +7,6 @@ main:
   - name: 首页
     url: /
     weight: 10
-  - name: 联系我们
+  - name: 联系薇薇
     url: about/
     weight: 20

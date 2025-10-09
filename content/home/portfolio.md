@@ -28,7 +28,7 @@ content:
   filter_button:
     - name: All
       tag: '*'
-    - name: 直播的米娅
+    - name: 直播的薇薇
       tag: ML
     - name: 董璇
       tag: CV

@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Mia Wang(米娅)
+title: ViVi Wang （薇薇）
 
 # Is this the primary user of the site?
 superuser: true
